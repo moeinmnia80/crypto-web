@@ -1,0 +1,103 @@
+.chart__modal{
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    position: fixed;
+    top: 0;
+    left: 0;
+    width: 100%;
+    height: 100%;
+    backdrop-filter: blur(.5rem);
+    padding: 2rem;
+}
+.modal__button{
+    position: absolute;
+    top: 2rem;
+    left: 2rem;
+    width: 2rem;
+    height: 2rem;
+    line-height: 2rem;
+    text-align: center;
+    font-weight: bold;
+    color: #fff;
+    background-color: red;
+    border: none;
+    border-radius: .5rem;
+    cursor: pointer;
+    transition: all .4s;
+}
+.modal__button:hover{
+    color: red;
+    background-color: rgba(255, 0, 0, 0.25);
+}
+.chart__table{
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    flex-direction: column;
+    width: 60%;
+    height: 85%;
+    background-color: #1e1e1e;
+    border: .1rem solid var(--color-flat);
+    border-radius: 1rem ;
+}
+.table__header{
+    display: flex;
+    align-items: center;
+    width: 100%;
+    height: 2.5rem;
+    padding: 0 10.5rem;
+    margin: 2rem 0;
+}
+.table__header img{
+    height: 100%;
+    margin-right: .5rem;
+}
+.graph{
+    width: 70%;
+    height: 70%;
+    font-size: .8rem;
+}
+.table__buttons{
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    width: 100%;
+    height: fit-content;
+    margin-top: 1rem;
+}
+.table__buttons button{
+    width: 6rem;
+    margin-right: 1rem;
+    padding: .25rem 0;
+    color: #3874ff;
+    background-color: transparent;
+    border: .1rem solid #3874ff;
+    border-radius: .25rem;
+    cursor: pointer;
+    transition: all .4s;
+}
+.table__buttons button:hover{
+    color: #fff;
+    background-color: #3874ff;
+}
+.active{
+    color: #fff !important;
+    background-color: #3874ff !important;
+}
+.table__info{
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    width: 100%;
+    height: fit-content;
+    margin: 1rem 0 2rem 0;
+}
+.table__info p {
+    color: #3874ff;
+    margin-right: 1rem;
+}
+.table__info p span{
+    color: #fff;
+    margin-left: .5rem;
+}

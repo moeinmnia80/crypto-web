@@ -1,0 +1,31 @@
+.header{
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+    background-color: var(--color-flat);
+    border-radius: 1rem;
+    padding: 1rem;
+}
+.header__title{
+
+}
+.header__text{
+
+}
+.header__link{
+
+}
+.main{
+    display: flex;
+    justify-content: center;
+    flex-direction: column;
+}
+.footer{
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    background-color: var(--color-flat);
+    border-radius: 1rem;
+    padding: 1rem 0;
+    margin-top: 1rem;
+}
