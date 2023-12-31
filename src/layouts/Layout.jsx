@@ -6,7 +6,7 @@ export function Layout({ children }) {
         <h1 className={styles.header__title}>Crypto App</h1>
         <span className={styles.header__text}>
           <a className={styles.header__link} href="https://botostart.ir">
-            BotoStart
+            Monet
           </a>
           | React.js Full course
         </span>
