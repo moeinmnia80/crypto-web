@@ -15,5 +15,6 @@ created with ❤️ by SBG
 ![3](https://github.com/moeinmnia80/crypto-web/assets/86520846/e40b5ecf-367b-411f-8439-37af4df1a8b9)
 ![4](https://github.com/moeinmnia80/crypto-web/assets/86520846/0e921560-f6a9-41a2-9ce6-2323cfc4bcfe)
 
+----------------------------------
 
 Thanks for watching 🙏❤️
