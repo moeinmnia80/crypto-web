@@ -4,7 +4,7 @@ Hello guys, wellcome to my github page
 
 - you can check it with below link: 
 
-- https://monet-books-web.netlify.app/
+- https://monet-crypto-web.netlify.app/
 
 created with ❤️ by SBG
 
