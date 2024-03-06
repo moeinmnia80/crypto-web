@@ -1,6 +1,6 @@
 Hello guys, wellcome to my github page
 
-- this is books web project
+- this is crypto web project
 
 - you can check it with below link:
 
